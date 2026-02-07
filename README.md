@@ -23,6 +23,7 @@ I am a dedicated learner on a 2-year mission to master Software Engineering and 
 ## 🤝 Community & Values
 - **Scrimbassador:** Helping fellow students navigate the @Scrimba ecosystem.
 - **Philosophy:**  Building the future, one commit at a time.
+- **Join Scrimba with me:** (https://scrimba.com/?via=u435d4e2).
 
 ---
 

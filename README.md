@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lingo! 👋 
 
-<!--
-**Lingoserge/Lingoserge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Fullstack Developer | 🎓 Scrimbassador 
 
-Here are some ideas to get you started:
+I am a dedicated learner on a 2-year mission to master Software Engineering and build impactful digital solutions. Currently, I'm focusing on front-end architecture and community building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 The Roadmap
+- **Current Phase:** Advanced CSS & Responsive Design.
+- **Next Launch:** JavaScript Logic (Starting **Feb 17, 2026**).
+- **Goal:** Becoming a professional Fullstack Developer by 2027.
+
+---
+
+## 🛠️ My Tech Stack
+- **Languages:** HTML5, CSS3 (Flexbox/Grid)
+- **Tools:** VS Code, Git, GitHub
+- **Platform:** Learning via Scrimba and The Odin Project.
+
+---
+
+## 🤝 Community & Values
+- **Scrimbassador:** Helping fellow students navigate the @Scrimba ecosystem.
+- **Philosophy:**  Building the future, one commit at a time.
+
+---
+
+## 📈 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mugambi-kirenga/)
+- [Scrimba Profile](https://scrimba.com/@Lingoserge)
+
+
